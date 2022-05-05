@@ -20,9 +20,9 @@ Save the data to the file
 
 
 # CODE
-Program Developed: Yashaswi.Mitta
+Program Developed:Mitta.Bhavishya Reddy
 
-Register number:212221230062
+Register number:212221230061
 # Data.csv :
 ~~~
 import pandas as pd
